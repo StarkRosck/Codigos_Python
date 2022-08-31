@@ -7,7 +7,7 @@ while True:
 print('''
 forma de pagamento
 [1] Pagamentos à vista 
-[2] Pagamento a prazo''')
+[2] Pagamento à prazo''')
 while True:
     op=input('Opção:')
     if op=='1':
